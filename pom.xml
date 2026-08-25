@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.genderscope</groupId>
   <artifactId>genderscope</artifactId>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <name>GenderScope Java</name>
   <description>Official Java client for the GenderScope API</description>
   <url>https://genderscope.io/docs</url>

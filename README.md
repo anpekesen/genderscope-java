@@ -15,7 +15,7 @@ Until the Maven Central namespace is verified, install the tagged release throug
 <dependency>
   <groupId>com.github.anpekesen</groupId>
   <artifactId>genderscope-java</artifactId>
-  <version>v0.1.1</version>
+  <version>v0.1.2</version>
 </dependency>
 ```
 
