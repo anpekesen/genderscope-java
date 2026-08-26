@@ -2,12 +2,12 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>io.genderscope</groupId>
-  <artifactId>genderscope</artifactId>
-  <version>0.1.2</version>
-  <name>GenderScope Java</name>
-  <description>Official Java client for the GenderScope API</description>
-  <url>https://genderscope.io/docs</url>
+  <groupId>io.namegender</groupId>
+  <artifactId>namegender</artifactId>
+  <version>0.2.0</version>
+  <name>NameGender Java</name>
+  <description>Official Java client for the NameGender API</description>
+  <url>https://namegender.com/docs</url>
 
   <licenses>
     <license>
@@ -18,19 +18,19 @@
   </licenses>
   <developers>
     <developer>
-      <name>GenderScope</name>
-      <email>support@genderscope.io</email>
-      <url>https://genderscope.io</url>
+      <name>NameGender</name>
+      <email>support@namegender.com</email>
+      <url>https://namegender.com</url>
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:https://github.com/anpekesen/genderscope-java.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/anpekesen/genderscope-java.git</developerConnection>
-    <url>https://github.com/anpekesen/genderscope-java</url>
+    <connection>scm:git:https://github.com/anpekesen/namegender-java.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/anpekesen/namegender-java.git</developerConnection>
+    <url>https://github.com/anpekesen/namegender-java</url>
   </scm>
   <issueManagement>
     <system>GitHub</system>
-    <url>https://github.com/anpekesen/genderscope-java/issues</url>
+    <url>https://github.com/anpekesen/namegender-java/issues</url>
   </issueManagement>
 
   <properties>
